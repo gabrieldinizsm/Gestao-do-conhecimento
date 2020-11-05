@@ -9,7 +9,7 @@ Indicadores de doencas cronicas;Saude;https://chronicdata.cdc.gov/api/views/g4ie
 NASA Open Data;Diversos;https://data.nasa.gov/;JSON;10 mil
 Vulnerabilidade a Inundacoes do Brasil;Meio Ambiente;http://dados.gov.br/dataset/vulnerabilidade-a-inundacoes-do-brasil1;HTML, JSON, DATA, CSV,ZIP;20 milhoes
 Acesso a internet e posse de celular;Tecnologia;https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html;XLS;378
-Infomacoes de filmes do IMDB;Entreterimento;https://datasets.imdbws.com/;GZ;
+Informacoes de filmes do IMDB;Entreterimento;https://datasets.imdbws.com/;GZ;
 Informacoes sobre o PIB por ano nos paises;Economia;https://www.imf.org/external/pubs/ft/weo/2017/02/weodata/index.aspx;CSV;193
 Novel Coronavirus (COVID-19) Cases Data;epidemiological;https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases;Interactive Data, CSV;591k ++
 Google Seach Trends;diversos;https://trends.google.com/trends/explore;Interactive Data;
